@@ -1,0 +1,1 @@
+zig build-exe main.zig -O ReleaseSmall --subsystem windows -target x86_64-windows-gnu -fsingle-threaded
